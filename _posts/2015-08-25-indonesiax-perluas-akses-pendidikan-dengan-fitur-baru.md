@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "IndonesiaX Perluas Akses Pendidikan dengan Fitur Baru"
+date:   2015-08-25
+---
+
+IndonesiaX merupakan cara belajar baru dan menyenangkan di Indonesia, yaitu melalui MOOC (massive open online courses) atau kursus online terbuka besar-besaran atau dari universitas dan institusi terbaik. Seluruh MOOC dapat diikuti secara gratis, kapan saja oleh siapa saja yang terhubung dengan internet dengan mendaftar di website www.indonesiax.co.id. Seminggu setelah diluncurkan tanggal 17 Agustus 2015, IndonesiaX telah menghimpun hampir 10.000 pendaftar kursus dan pengunjung yang berasal dari 351 kota dan 65 negara.
+ 
+Pada 24 Agustus kemarin, IndonesiaX merilis topik minggu kedua dari 3 MOOC yang telah disediakan. Topik MOOC ‘Cyber Law: Rights and Obligations’ dari Dr. Edmon Makarim, S.Kom, SH, LL.M, Dosen dan Peneliti Fakultas Hukum Universitas Indonesia di minggu kedua ini adalah ‘Konvergensi Telematika, Serta Hak & Kewajibannya’. Sementara MOOC ‘Introduction to Broadcasting’ dari Ito Warsito, Direktur Utama PT Bursa Efek Indonesia 2009-2015 membawakan topik ‘Investasi dan Pasar Modal’ dan MOOC ‘Change Management’ dari Prof. Rhenald Kasali, Ph.D, Pendiri Rumah Perubahan dan Guru Besar Fakultas Ekonomi Universitas Indonesia membawakan topik ‘Sejarah Perubahan di Dunia’.
+ 
+Ke depannya, IndonesiaX akan menghadirkan MOOC ‘Introduction to Broadcasting’ yang akan dibawakan oleh Wishnutama Kusubandio, CEO PT Net Mediatama Televisi, MOOC ‘Introduction to Engineering’ dari Institut Teknologi Bandung, dan MOOC dari universitas dan institusi terbaik lainnya, baik di dalam maupun luar negeri, yang akan membagikan ilmu pengetahuan mereka secara gratis kepada pengguna online.
+ 
+IndonesiaX juga berencana memperluas jangkauannya lebih luas lagi melalui fitur-fitur baru yang akan dirilis segera. Pertama, perluasan jangkauan ini dilakukan dengan menyediakan mobile application bernama IndonesiaX untuk Android dan iPhone. Aplikasi ini juga dapat diakses untuk iPad dan tablet lainnya. Fitur yang terdapat di mobile application IndonesiaX didesain hampir sama seperti fitur yang tersedia di www.indonesiax.co.id. Selain dapat mengikuti kursus secara online dengan cara streaming video, aplikasi IndonesiaX juga memungkinkan siswa mengikuti kursus secara offline dengan cara mengunduh video lebih dahulu.
+ 
+IndonesiaX juga berencana mempermudah akses pengguna yang memiliki koneksi internet lambat. Website IndonesiaX dan kursus telah dioptimasi sehingga pengguna yang memiliki koneksi internet lambat dapat mengakses kursus dengan mudah. Video MOOC dibatasi berdurasi maksimal satu jam per minggu dan video kursus dibagi beberapa bagian agar memudahkan para pengguna mengunduh video kapan saja.
+ 
+Cara kedua, dalam waktu dekat IndonesiaX juga akan memungkinkan pengguna untuk mengunduh transkrip kursus video. Transkrip dan teks kursus akan tersedia dalam Bahasa Indonesia dan Bahasa Inggris mengingat pengunjung website IndonesiaX juga berasal dari banyak negara yang ingin belajar dari institusi terbaik di Tanah Air. Itu sebabnya, IndonesiaX dapat diakses oleh pengguna dari berbagai negara dan juga oleh pengguna berkebutuhan khusus, seperti saudara-saudara kita yang tuna rungu.
+ 
+Secara khusus, Ketua Dewan Penasihat IndonesiaX Mohammad Nuh berharap dengan memperluas akses, IndonesiaX dapat menjangkau lebih banyak pengguna sehingga pendidikan online dapat lebih cepat membantu dalam upaya mencerdaskan kehidupan bangsa. “Kesempatan untuk mendapatkan akses pada sumber pembelajaran menjadi kata kunci dalam upaya mencerdaskan kehidupan bangsa dan belajar sepanjang hayat (life long learning), sekaligus meningkatkan kompetensi yang berujung pada peningkatan daya saing,” tutur Nuh (25/8).
+ 
+Wakil Ketua Dewan Penasihat IndonesiaX Rhenald Kasali mengatakan, IndonesiaX menjadi pelopor belajar online. “Gerakan masif ini membuat kaum muda beralih dari membeli gelar formal menjadi membeli keahlian dan paket-paket kursus. Ini bukan lagi racikan akademik yang dibuat pemerintah karena mereka ingin membangun keahlian yang unik, yang tidak massal, dan siap pakai,” ungkap Rhenald.
+ 
+Lucyanna Mangoendipoero Pandjaitan, Presiden Direktur dan CEO IndonesiaX menambahkan, siapa saja yang terhubung dengan internet, tidak terbatas pada pemakai desktop atau laptop, bahkan dalam waktu dekat dengan mobile phones, dapat mengikuti kursus IndonesiaX dengan nyaman. “Learners IndonesiaX tidak perlu harus terdaftar di universitas atau pendidikan formal atau bekerja di perusahaan-perusahaan ternama untuk belajar topik menarik. Ini adalah cara belajar baru di negeri kita, IndonesiaX mendemokratisasi dan merevolusi cara belajar di Indonesia,” kata Lucyanna.
+ 
+Lebih lanjut Dean Jay Mathew, Direktur dan COO IndonesiaX menambahkan, mendemokratisasi akses terhadap pendidikan adalah cara terbaik memajukan masyarakat. “Dan kami memastikan bahwa pengetahuan dan kebijaksanaan yang ada di perusahaan dan organisasi non-pendidikan juga diberikan gratis untuk masyarakat. Bursa Efek Indonesia dan NET. TV adalah contoh bagus perusahaan yang mau membagikan pengetahuannya kepada masyarakat,” ujar Dean.
+
+
+
