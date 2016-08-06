@@ -53,7 +53,7 @@ a {
 	color: $link-color;
 
 	&:hover {
-		color: darken($link-color, 15%);
+		color: lighten($link-color, 10%);
 	}
 }
 
@@ -176,7 +176,7 @@ HEADER STYLING
 
 .header {
 	background-color: $background-color;
-	background-image: url('../img/touring.jpg');
+	background-image: url('../img/header.png');
 	background-size: cover;
 	background-position: center center;
 	color: white;
