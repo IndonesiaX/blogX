@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Kabar IndonesiaX
+description: Kabar Terbaru dari IndonesiaX
 
-url: http://brianmaierjr.github.com/long-haul
+url: https://dehamzah.com/indonesiax-blog
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -12,17 +12,16 @@ gems: [jekyll-paginate]
 paginate: 5
 
 navigation:
- - title: Home
+ - title: Kabar Terbaru
    url: /index.html
- - title: About
-   url: /about
- - title: Contact
-   url: /contact
+ - title: Learner Stories
+   url: /learner-stories
+ - title: Kursus
+   url: http://www.indonesiax.co.id/courses
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   twitter: IndonesiaX_News
+   facebook: IndonesiaXNews
+   email: info@indonesiax.co.id
 
 google_analytics: "UA-58263416-1"
