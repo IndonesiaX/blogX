@@ -4,7 +4,7 @@ title:  "IndonesiaX sebagai Cara Belajar Baru"
 date:   2015-08-05
 ---
 
-*JAKARTA. 5 Agustus 2015.* Perkembangan dunia digital yang pesat turut membuat metode belajar online berkembang. IndonesiaX sebagai platform kursus online terbuka secara besar-besaran atau massive open online course (MOOC) menawarkan cara belajar baru melalui kursus online.
+Perkembangan dunia digital yang pesat turut membuat metode belajar online berkembang. IndonesiaX sebagai platform kursus online terbuka secara besar-besaran atau massive open online course (MOOC) menawarkan cara belajar baru melalui kursus online.
 
 Ketua Dewan Penasihat IndonesiaX Prof. Mohammad Nuh mengatakan, hingga saat ini, belum ada cara yang paling efektif dalam belajar kecuali metode online. “Melihat peta Indonesia yang disparitasnya sangat luar biasa baik dalam hal wilayah, sosial ekonomi, dan budaya, maka cara yang paling cepat untuk memperkecil jarak adalah dengan cara online,” ujar M Nuh pada Rapat Dewan Penasihat IndonesiaX (6/5).
 
