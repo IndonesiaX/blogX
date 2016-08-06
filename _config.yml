@@ -2,7 +2,7 @@ title: Kabar IndonesiaX
 description: Kabar Terbaru dari IndonesiaX
 
 url: https://dehamzah.com/indonesiax-blog
-baseurl: ""
+baseurl: "/indonesiax-blog"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
