@@ -451,46 +451,6 @@ section.discussion.outside-app .comment-actions-list,
 .course-info header.course-profile {
   background: url("/static/themes/ix-theme/images/header.41b670ad3d28.png") !important; }
 
-@font-face {
-  font-family: 'Open Sans';
-  src: url("../fonts/OpenSans/OpenSans-Light-webfont.ac5b729f30cf.woff2") format("woff2"), url("../fonts/OpenSans/OpenSans-Light-webfont.df04ed7fc7d8.woff") format("woff"), url("../fonts/OpenSans/OpenSans-Light-webfont.557ad65e492b.ttf") format("truetype");
-  font-weight: 300;
-  font-style: normal; }
-@font-face {
-  font-family: 'Open Sans';
-  src: url("../fonts/OpenSans/OpenSans-LightItalic-webfont.d86732122677.woff2") format("woff2"), url("../fonts/OpenSans/OpenSans-LightItalic-webfont.02d04d22784f.woff") format("woff"), url("../fonts/OpenSans/OpenSans-LightItalic-webfont.05e99ea9cf0b.ttf") format("truetype");
-  font-weight: 300;
-  font-style: italic; }
-@font-face {
-  font-family: 'Open Sans';
-  src: url("../fonts/OpenSans/OpenSans-Regular-webfont.a17b3a9bf6a0.woff2") format("woff2"), url("../fonts/OpenSans/OpenSans-Regular-webfont.87119b577169.woff") format("woff"), url("../fonts/OpenSans/OpenSans-Regular-webfont.4c7e867ae422.ttf") format("truetype");
-  font-weight: 400;
-  font-style: normal; }
-@font-face {
-  font-family: 'Open Sans';
-  src: url("../fonts/OpenSans/OpenSans-Italic-webfont.22c2edbcc0ad.woff2") format("woff2"), url("../fonts/OpenSans/OpenSans-Italic-webfont.b9812e74f089.woff") format("woff"), url("../fonts/OpenSans/OpenSans-Italic-webfont.2416d120632b.ttf") format("truetype");
-  font-weight: 400;
-  font-style: italic; }
-@font-face {
-  font-family: 'Open Sans';
-  src: url("../fonts/OpenSans/OpenSans-Semibold-webfont.09409c5982d1.woff2") format("woff2"), url("../fonts/OpenSans/OpenSans-Semibold-webfont.dbbfd9e667c7.woff") format("woff"), url("../fonts/OpenSans/OpenSans-Semibold-webfont.f75c4b742376.ttf") format("truetype");
-  font-weight: 600;
-  font-style: normal; }
-@font-face {
-  font-family: 'Open Sans';
-  src: url("../fonts/OpenSans/OpenSans-SemiboldItalic-webfont.b88b3179838d.woff2") format("woff2"), url("../fonts/OpenSans/OpenSans-SemiboldItalic-webfont.f386291c234e.woff") format("woff"), url("../fonts/OpenSans/OpenSans-SemiboldItalic-webfont.e84740526b8c.ttf") format("truetype");
-  font-weight: 600;
-  font-style: italic; }
-@font-face {
-  font-family: 'Open Sans';
-  src: url("../fonts/OpenSans/OpenSans-Bold-webfont.5c778ce49ad5.woff2") format("woff2"), url("../fonts/OpenSans/OpenSans-Bold-webfont.6dbaf63547f2.woff") format("woff"), url("../fonts/OpenSans/OpenSans-Bold-webfont.ad0eb070a07f.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal; }
-@font-face {
-  font-family: 'Open Sans';
-  src: url("../fonts/OpenSans/OpenSans-BoldItalic-webfont.3813cb506edd.woff2") format("woff2"), url("../fonts/OpenSans/OpenSans-BoldItalic-webfont.7dae097d5db8.woff") format("woff"), url("../fonts/OpenSans/OpenSans-BoldItalic-webfont.f9103010ab55.ttf") format("truetype");
-  font-weight: 700;
-  font-style: italic; }
 .modal .inner-wrapper header hr::after, .leanModal_box .inner-wrapper header hr::after, body.discussion .wmd-prompt-dialog .inner-wrapper header hr::after, .discussion-module .wmd-prompt-dialog .inner-wrapper header hr::after, .discussion-user-threads .wmd-prompt-dialog .inner-wrapper header hr::after, .home .university-partners hr::after, .course-info .container nav::after, .course-info section.outside-app nav::after, .course-info .wrapper-account-settings nav::after, .course-info .view-profile .profile-self .wrapper-profile-field-account-privacy .u-field-account_privacy nav::after, .view-profile .profile-self .wrapper-profile-field-account-privacy .course-info .u-field-account_privacy nav::after, .course-info .view-profile .wrapper-profile-sections nav::after, .view-profile .course-info .wrapper-profile-sections nav::after, .course-info .course-sidebar header::after, .mediakit hr::after, .container.about > nav::after, section.about.outside-app > nav::after, .about.wrapper-account-settings > nav::after, .view-profile .profile-self .wrapper-profile-field-account-privacy .about.u-field-account_privacy > nav::after, .view-profile .about.wrapper-profile-sections > nav::after {
   background-image: -webkit-linear-gradient(-450deg, rgba(200, 200, 200, 0) 0%, #c8c8c8 50%, rgba(200, 200, 200, 0));
   background-image: linear-gradient(180deg, rgba(200, 200, 200, 0) 0%, #c8c8c8 50%, rgba(200, 200, 200, 0));
