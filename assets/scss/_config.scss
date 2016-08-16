@@ -28,7 +28,7 @@ $black:  #111;
 $primary-color: #204597;
 $secondary-color: #89c541;
 $tertiary-color: #aaa;
-$link-color: $primary-color;
+$link-color: #000;
 $background-color: #204597;
 
 $bad-color: $red; // Bad color for errors, validation etc.
@@ -53,4 +53,4 @@ TYPE SETTINGS
 ***************/
 
 $sans-serif: "Open Sans", Helvetica, Arial, sans-serif;
-$serif: "PT Serif", Georgia, Times, serif;
+$serif: "Open Sans", Helvetica, Arial, sans-serif;
