@@ -13,6 +13,15 @@ $( document ).ready(function() {
       return Math.round(parseFloat(value));
     });
 
+    // Mobile menu toggle
+    (function($) {
+      var toggle_menu = $("#toggleMenu");
+      var menu_top = $("#menuTop");
+      toggle_menu.click(function() {
+        menu_top.toggleClass("active");
+      });
+    })(jQuery);
+
 });
 
 

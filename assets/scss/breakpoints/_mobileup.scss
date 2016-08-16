@@ -22,17 +22,6 @@ body {
 	}
 }
 
-// Text Selection Styling
-::-moz-selection {
-	background: $primary-color;
-	color: white;
-}
-
-::selection {
-	background: $primary-color;
-	color: white;
-}
-
 // Media Styling
 img,video,audio,iframe,object{
 	max-width:100%;
@@ -163,6 +152,7 @@ PAGE STYLES
 .pageTitle {
 	margin: 2rem auto 1em;
 	text-align: center;
+	font-weight: 600;
 }
 
 .content {
@@ -211,11 +201,13 @@ POST STYLING
 ***************/
 
 .post {
+	color: #272727;
 
 	.postTitle {
 		text-align: center;
 		margin-top: 2rem;
 		margin-bottom: 1rem;
+		font-weight: 600;
 	}
 
 	blockquote {
@@ -288,6 +280,7 @@ POST STYLING
 	.featuredImage {
 		position: relative;
 		margin-top: 2rem;
+		text-align: center;
 
 		img {
 			margin-bottom: 0;
@@ -459,6 +452,8 @@ POST LIST STYLING
 ***************/
 
 .posts {
+	color: #272727;
+
 	li {
 		margin-bottom: 4rem;
 		position: relative;
@@ -475,6 +470,7 @@ POST LIST STYLING
 
 		a {
 			text-decoration: none;
+			font-weight: 600;
 
 			&:hover {
 				text-decoration: underline;
