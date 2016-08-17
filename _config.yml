@@ -1,7 +1,7 @@
 title: Kabar IndonesiaX
 description: Kabar Terbaru dari IndonesiaX
 
-url: https://blog.indonesiax.co.id
+url: http://blog.indonesiax.co.id
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
