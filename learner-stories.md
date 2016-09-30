@@ -20,5 +20,11 @@ title: Learner Stories IndonesiaX
           <h4>Learner Stories - Ferry Doringin</h4>
         </a>
       </li>
+      <li>
+        <a href="{{ '/blog/learner-stories-soerjo-winarto/' | prepend: site.baseurl }}">
+          <img src="{{ '/assets/img/ls-soerjo-winarto.jpg' | prepend: site.baseurl }}" alt="Learner Stories - Soerjo Winarto">
+          <h4>Learner Stories - Soerjo Winarto</h4>
+        </a>
+      </li>
   	</ul>
 </div>
