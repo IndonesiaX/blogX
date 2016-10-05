@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#LearnerStories - Soerjo Winarto"
+title:  "#LearnerStories: Soerjo Winarto, Direktur Supply Chain di Johnson & Johnson, Indonesia"
 date:   2016-09-30
 image:  ls-soerjo-winarto.jpg
 ---
