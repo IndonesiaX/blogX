@@ -26,5 +26,11 @@ title: Learner Stories IndonesiaX
           <h4>Learner Stories - Soerjo Winarto</h4>
         </a>
       </li>
+      <li>
+        <a href="{{ '/blog/learner-stories-riflatul-ulfa/' | prepend: site.baseurl }}">
+          <img src="{{ '/assets/img/ls-riflatul-ulfa.jpg' | prepend: site.baseurl }}" alt="Learner Stories - Riflatul Ulfa">
+          <h4>Learner Stories - Riflatul Ulfa</h4>
+        </a>
+      </li>
   	</ul>
 </div>
