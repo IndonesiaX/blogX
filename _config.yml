@@ -7,7 +7,8 @@ paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
 markdown: kramdown
-highlighter: rouge
+#highlighter: rouge
+highlighter: true
 gems: [jekyll-paginate]
 paginate: 5
 

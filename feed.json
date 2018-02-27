@@ -1,0 +1,14 @@
+---
+layout: nil
+---
+
+[
+  {% for post in site.posts %}
+  {
+    "title" : "{{ post.title }}",
+    "link" : "{{ site.url }}{{ post.url }}",
+    "guid" : "{{ site.url }}{{ post.url }}",
+    "pubDate" : "{{ post.date | date: "%B %d, %Y" }}"
+  }{% if forloop.last %}{% else %},{% endif %}
+  {% endfor %}
+] 
