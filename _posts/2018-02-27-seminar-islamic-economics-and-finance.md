@@ -19,7 +19,7 @@ Mengutip Baznas (Badan Amil Zakat Nasional), potensi zakat tahun 2016 saja diper
 Segera daftarkan diri Anda dalam konferensi ini melalui registrasi online di [http://event.indonesiax.co.id](http://event.indonesiax.co.id) karena kursi terbatas. Pendaftaran ditutup pada 16 Maret 2018 pukul 15.00 WIB.
 
 <center>
-    <img width="560" height="315" src="https://s3-ap-southeast-1.amazonaws.com/ix-production/blog_content/Poster-A3-Seminar-Islamic-Finance-FINAL2.jpg"/>
+    <img width="560" src="https://s3-ap-southeast-1.amazonaws.com/ix-production/blog_content/Poster-A3-Seminar-Islamic-Finance-FINAL2.jpg"/>
 </center>
 
 <br><br>
