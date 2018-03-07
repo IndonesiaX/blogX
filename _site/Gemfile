@@ -7,4 +7,3 @@ gem "normalize-scss"
 gem "compass"
 gem "sass"
 gem "support-for"
-gem 'jekyll-admin', group: :jekyll_plugins
