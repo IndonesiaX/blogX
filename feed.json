@@ -3,7 +3,7 @@ layout: nil
 ---
 
 [
-  {% for post in site.posts %}
+  {% for post in site.posts limit:4 %}
   {
     "title" : "{{ post.title }}",
     "link" : "{{ site.url }}{{ post.url }}",
@@ -11,4 +11,4 @@ layout: nil
     "pubDate" : "{{ post.date | date: "%B %d, %Y" }}"
   }{% if forloop.last %}{% else %},{% endif %}
   {% endfor %}
-] 
+]
