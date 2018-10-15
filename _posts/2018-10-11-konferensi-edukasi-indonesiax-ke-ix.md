@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  KONFERENSI EDUKASI INDONESIA KE- IX
+title:  KONFERENSI EDUKASI INDONESIAX KE- IX
 date:   2018-10-11
 ---
 
