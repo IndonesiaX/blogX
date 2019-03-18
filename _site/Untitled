@@ -1,0 +1,9 @@
+"install.sh" 8L, 828C                                                                                                                                                                                                       1,1           All
+cp -rf lms/edx-platform/static_content.html /edx/app/edxapp/edx-platform/common/djangoapps/pipeline_mako/templates/static_content.html
+cp -rf lms/edx-platform/course_about_sidebar_header.html /edx/app/edxapp/edx-platform/lms/templates/courseware/course_about_sidebar_header.html
+cp -rf lms/edx-platform/discussion-home.underscore /edx/app/edxapp/edx-platform/lms/djangoapps/discussion/static/discussion/templates/discussion-home.underscore
+cp -rf lms/edx-platform/login_spec.js /edx/app/edxapp/edx-platform/lms/static/js/spec/student_account/login_spec.js
+cp -rf lms/edx-platform/password_reset_spec.js /edx/app/edxapp/edx-platform/lms/static/js/spec/student_account/password_reset_spec.js
+cp -rf lms/edx-platform/register_spec.js /edx/app/edxapp/edx-platform/lms/static/js/spec/student_account/register_spec.js
+cp -rf lms/edx-platform/StudentAccountDeletion.jsx /edx/app/edxapp/edx-platform/lms/static/js/student_account/components/StudentAccountDeletion.jsx
+cp -rf lms/edx-platform/api.py /edx/app/edxapp/edx-platform/openedx/core/djangoapps/user_api/api.py
