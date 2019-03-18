@@ -35,13 +35,13 @@ Website: www.indonesiax.co.id
     <img src="/assets/img/Konferensi-11-IndonesiaX-1.jpg" width="800" alt="Konferensi 11 IndonesiaX">
   </figure>
   <figure>
-    <img src="/assets/img/Konferensi-11-IndonesiaX-1.jpg" width="800" alt="Konferensi 11 IndonesiaX">
+    <img src="/assets/img/Konferensi-11-IndonesiaX-2.jpg" width="800" alt="Konferensi 11 IndonesiaX">
   </figure>
   <figure>
-    <img src="/assets/img/Konferensi-11-IndonesiaX-1.jpg" width="800" alt="Konferensi 11 IndonesiaX">
+    <img src="/assets/img/Konferensi-11-IndonesiaX-3.jpg" width="800" alt="Konferensi 11 IndonesiaX">
   </figure>
   <figure>
-    <img src="/assets/img/Konferensi-11-IndonesiaX-1.jpg" width="800" alt="Konferensi 11 IndonesiaX">
+    <img src="/assets/img/Konferensi-11-IndonesiaX-4.jpg" width="800" alt="Konferensi 11 IndonesiaX">
   </figure>
   <figure>
     <img src="/assets/img/Konferensi-11-IndonesiaX-5.jpg" width="800" alt="Konferensi 11 IndonesiaX">
