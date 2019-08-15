@@ -1,0 +1,25 @@
+<div class="row">
+  {% if page.contact == nil %}
+  <p>
+  <div class="text-center">
+    <a href="https://indonesiax.co.id" class="c-btn c-btn-primary c-btn-sm">Mulai belajar di
+      IndonesiaX</a>
+  </div>
+  </p>
+  {% else %}
+  <p>
+    <strong style="line-height:2.5; font-size: x-large">Press Contact</strong>
+    <br>
+    {{ page.contact}}<br>
+    {{ page.position}}<br>
+    {{ page.company}}<br>
+    <a href="tel:{{ page.phone}}"> {{ page.phone}}</a><br>
+    <a href="mailto:{{ page.email}}">{{ page.email}}</a><br>
+    <a href="{{ page.website}}" target="_blank">{{ page.website}}</a><br>
+  <div class="text-center">
+    <a href="https://indonesiax.co.id" target="_blank" class="c-btn c-btn-primary c-btn-sm">Mulai belajar di
+      IndonesiaX</a>
+  </div>
+  </p>
+  {% endif %}
+</div>

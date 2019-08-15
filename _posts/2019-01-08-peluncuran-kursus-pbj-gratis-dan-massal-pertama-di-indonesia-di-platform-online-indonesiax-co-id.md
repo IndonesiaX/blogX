@@ -2,6 +2,13 @@
 layout: post
 title:  "Peluncuran Kursus PBJ Gratis dan Massal Pertama di Indonesia di Platform Online IndonesiaX.co.id"
 date:   2019-02-08
+image: "Kursus PBJ Gratis dan Massal-1.jpeg"
+contact: "Daniella Jeslynn"
+position: "Marketing Communication"
+company: "PT Education Technology Indonesia (IndonesiaX)"
+phone: "+62 8878811625"
+email: "djeslynn@indonesiax.co.id"
+website: "https://www.indonesiax.co.id"
 ---
 
 <center>
@@ -37,15 +44,3 @@ Samsul Ramli mengaku sangat tertarik dan antusias dengan ide kelas pengadaan sec
 
 Tidak kurang dari 4 modul telah disiapkan untuk kelas pengadaan ini. Modul-modul ini setara dengan unit kompetensi pengelola pengadaan barang/jasa tingkat pertama. Materi merupakan kombinasi unit kompetensi standar nasional dan kompetensi dasar International Supply Chain Management . “Kita berharap meski kelas ini gratis namun kualitas konsep, konten dan kelulusan telah memenuhi standar nasional bahkan internasional”, tandas Khalid bersemangat.
 
-
-<p>
-<strong style="line-height:2.5">Untuk keterangan lebih lanjut hubungi:</strong>
-
-<br>
-Daniella Jeslynn<br>
-Marketing Communication<br>
-PT Education Technology Indonesia (IndonesiaX)<br>
-Tel: +62 87825131519<br>
-Email: djeslynn@indonesiax.co.id<br>
-Website: www.indonesiax.co.id
-</p>

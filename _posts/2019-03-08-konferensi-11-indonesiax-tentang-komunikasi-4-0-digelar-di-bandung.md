@@ -2,6 +2,13 @@
 layout: post
 title:  "Konferensi 11 IndonesiaX Tentang Komunikasi 4.0 Digelar di Bandung"
 date:   2019-03-04
+image: "Konferensi-11-IndonesiaX-1.jpg"
+contact: "Daniella Jeslynn"
+position: "Marketing Communication"
+company: "PT Education Technology Indonesia (IndonesiaX)"
+phone: "+62 8878811625"
+email: "djeslynn@indonesiax.co.id"
+website: "https://www.indonesiax.co.id"
 ---
 
 <strong>Jakarta, 04 Maret 2019 – </strong> IndonesiaX kembali menyelenggarakan konferensi edukasi bertajuk “Communication in Digital Era”, kali ini di Bandung. Event ini bertepatan dengan peluncuran kursus terbaru IndonesiaX, yaitu UNPAD203 yang berjudul “Komunikasi Persuasif Untuk Negosiasi” yang dibawakan oleh dosen-dosen dari Fakultas Ilmu Komunikasi (Fikom) Universitas Padjajaran (UNPAD), juga MOOC CBS101 “Business Presentation with Charles Bonar Sirait” yang dibawakan oleh presenter kondang televisi Indonesia, Charles Bonar Sirait. Kedua kursus ini dapat diakses gratis oleh para pembelajar melalui platform www.indonesiax.co.id.
@@ -17,18 +24,6 @@ Sejak diluncurkan 17 Agustus 2015, platform IndonesiaX.co.id telah menyediakan 3
 Universitas Padjajaran sendiri kini telah memiliki 3 kursus di www.indonesiax.co.id, di antaranya adalah UNPAD101 dengan topik kesehatan anak, UNPAD202 dengan topik manajemen keuangan, serta UNPAD203 dengan topik komunikasi persuasif yang kursus minggu pertamanya diluncurkan pada acara ini. Sementara itu, IndonesiaX kini telah memiliki 3 kursus komunikasi, dimana selain kursus terbarunya UNPAD203 “Komunikasi Persuasif untuk Negosiasi”, dua kursus komunikasi lainnya yang telah tayang di IndonesiaX adalah NET101 “Introduction to Broadcasting Television” dan UT101 “Public Speaking”.
 
 Setelah konferensi berlangsung juga Meet Up Komunitas Pembelajar IndonesiaX atau yang biasa disebut “IndoneXian”, dimana dalam acara ini, para pembelajar IndonesiaX dipertemukan dengan tim IndonesiaX dan beberapa instruktur di platform IndonesiaX.co.id untuk berdiskusi dan bersinergi tentang rencana komunitas IndonesiaX dalam menyebarluaskan misi baik IndonesiaX untuk dunia pendidikan di Indonesia.
-
-<p>
-<strong style="line-height:2.5">Untuk keterangan lebih lanjut hubungi:</strong>
-<br>
-Daniella Jeslynn<br>
-Marketing Communication<br>
-PT Education Technology Indonesia (IndonesiaX)<br>
-Tel: +62 87819956797<br>
-Email: djeslynn@indonesiax.co.id<br>
-Website: www.indonesiax.co.id
-</p>
-
 
 <center>
   <figure>
